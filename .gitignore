@@ -1,3 +1,7 @@
 ﻿Test
 ./Test
 /Test
+bin
+./bin
+obj
+./obj
