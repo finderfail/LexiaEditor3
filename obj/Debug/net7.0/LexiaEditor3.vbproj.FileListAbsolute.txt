@@ -1,0 +1,15 @@
+/Users/macbookm1/Developer/LexiaEditor3/bin/Debug/net7.0/LexiaEditor3
+/Users/macbookm1/Developer/LexiaEditor3/bin/Debug/net7.0/LexiaEditor3.deps.json
+/Users/macbookm1/Developer/LexiaEditor3/bin/Debug/net7.0/LexiaEditor3.runtimeconfig.json
+/Users/macbookm1/Developer/LexiaEditor3/bin/Debug/net7.0/LexiaEditor3.dll
+/Users/macbookm1/Developer/LexiaEditor3/bin/Debug/net7.0/LexiaEditor3.pdb
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.vbproj.AssemblyReference.cache
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.AssemblyInfoInputs.cache
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.AssemblyInfo.vb
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.vbproj.CoreCompileInputs.cache
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.dll
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/refint/LexiaEditor3.dll
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.pdb
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/LexiaEditor3.genruntimeconfig.cache
+/Users/macbookm1/Developer/LexiaEditor3/obj/Debug/net7.0/ref/LexiaEditor3.dll
