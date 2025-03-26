@@ -1,3 +1,30 @@
 ﻿<Properties StartupConfiguration="{C96F4258-69B4-4BAC-A00A-53F0E14B15A8}|Default">
+  <MonoDevelop.Ide.ItemProperties.LexiaEditor3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Program.vb" Line="36" Column="85" />
+      <File FileName="Compiler.vb" Line="44" Column="10" />
+      <File FileName="ConfigEditor.vb" Line="25" Column="41" />
+      <File FileName="EditorWindow.vb" Line="50" Column="10" />
+      <File FileName="ProjectManager.vb" Line="175" Column="10" />
+      <File FileName="MapEditor.vb" Line="105" Column="10" />
+      <File FileName=".gitignore" Line="8" Column="1" />
+      <File FileName="README.md" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LexiaEditor3">
+            <Node name="LexiaEditor3" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
