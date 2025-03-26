@@ -1,0 +1,28 @@
+Copyright (c) 2025 Ilya Finderov
+
+ALL RIGHTS RESERVED.
+
+This software, Lexia Editor 3 and Lexia Engine 2 (collectively, the "Software"), is proprietary to Ilya Finderov and is protected by copyright laws and international treaties.
+
+**RESTRICTIONS ON COMMERCIAL USE**
+
+1.  **Prohibition of Commercial Publication:** The publication, distribution, or sale of any game, application, or other software product (collectively, "Game") created using the Software, whether in its original or modified form, for commercial purposes is strictly prohibited. "Commercial purposes" shall include, but not be limited to, the sale of the Game, in-app purchases within the Game, advertising revenue generated from the Game, or any other form of monetization directly or indirectly related to the Game.
+
+2.  **Modification Restrictions:** Even if the Software has been modified, altered, or extended by you, the prohibition on commercial publication, distribution, or sale as described in Section 1 above still applies. Any derivative work based on the Software is subject to the same restrictions.
+
+3.  **Permitted Non-Commercial Use:** You are permitted to use the Software for non-commercial purposes, including but not limited to:
+    *   Personal learning and experimentation.
+    *   Creating Games for personal use.
+    *   Creating Games for educational purposes, provided no fees are charged for access.
+    *   Participating in game jams or other non-commercial events.
+    *   Sharing the Game with friends and family, provided no fees are charged.
+
+4.  **Disclaimer of Warranty:** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5.  **Termination:** Ilya Finderov reserves the right to terminate this license if you violate any of the terms outlined herein. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+6.  **Governing Law:** This agreement shall be governed by and construed in accordance with the laws of the jurisdiction where Ilya Finderov resides.
+
+7.  **Contact Information:** For any questions regarding this license, please contact Ilya Finderov at ilya.finderov@icloud.com.
+
+By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this License Agreement.
